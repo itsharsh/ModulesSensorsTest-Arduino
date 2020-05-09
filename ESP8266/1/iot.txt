@@ -1,0 +1,6 @@
+IOT-Devices that connect to one another and interact using internet.
+Ex- Computer,Phones,Chromecast,wifi devices,smart wathces
+Categories
+	Macro devices - Computer,Laptop,Tablets
+	Micro devices - Mobile Phones
+	Nano devices - simple uc, pi
